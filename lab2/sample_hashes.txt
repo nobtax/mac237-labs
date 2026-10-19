@@ -1,0 +1,2 @@
+a74e70fc71a72b345c25dd9a4bf8b516d7402e5788dd58a23be7f3eed6bcc48f  benign_sample
+8e2d5421d9044e706fbb2d3f87a45bd82c6c10a4f0368362f188a1ac8c1f6b34  downloader_sim
