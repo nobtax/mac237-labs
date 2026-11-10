@@ -1,0 +1,9 @@
+token: 5fae7ec0d4cdeb59
+columns in the table : ['id', 'name', 'dept', 'salary', 'home_phone']
+columns in the view  : ['id', 'name', 'dept']
+view rows            : [(1, 'Alice', 'eng'), (2, 'Bob', 'eng'), (3, 'Carol', 'hr')]
+table rows           : [(1, 'Alice', 'eng', 80000, '555-0101'), (2, 'Bob', 'eng', 60000, '555-0102'), (3, 'Carol', 'hr', 72000, '555-0103')]
+
+inference: an aggregate over a group of one is not an aggregate
+  dept=eng  count=2 avg=70000
+  dept=hr   count=1 avg=72000
