@@ -1,0 +1,9 @@
+Program: lab3/reflect.py (Lab 3, Session 13)
+
+Phase          | Score 0-3 | Evidence (one sentence)
+Requirements   | 1         | The lab addressed reflected XSS, but I found no written security requirements created before coding.
+Design         | 1         | The program handles untrusted web input, but I found no documented security design created before implementation.
+Implementation | 1         | The program demonstrates reflected input, but secure coding practices still need verification against the source.
+Verification   | 1         | Session 13 included XSS before-and-after evidence, but repeatable automated tests have not been verified.
+Release        | 0         | I found no evidence of a security-reviewed release or deployment checklist.
+Total          | 4 of 15   |
